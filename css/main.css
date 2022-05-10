@@ -16,6 +16,7 @@ html ::-webkit-scrollbar {
   border-radius: 3.5px;
 }
 
+
 html ::-webkit-scrollbar-thumb {
   background-color: #f9a51b;
   border-radius: 3.5px;
@@ -5066,4 +5067,12 @@ h3.course-title::after {
   .carousel-title {
     font-size: 15px;}
 }
+
 /* Our Work Page */
+
+/* print page */
+.news-link.two{
+  background-color: #4f463d;
+  inset-inline-start: 30px;
+}
+.news-section.print .news{margin-bottom: 40px;}
